@@ -1,0 +1,20 @@
+.select-image-button-container {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+}
+.select-image-button-icon {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+.select-image-button {
+    width: 20px;
+    height: 20px;
+    background: #1c69d5;
+    border-radius: 3px;
+    outline: 1px solid white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}

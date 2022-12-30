@@ -1,0 +1,14 @@
+.selected-image img {
+    width: 100%;
+}
+.selected-image {
+    display: flex;
+    justify-content: center;
+}
+.selected-image-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+}

@@ -1,0 +1,12 @@
+.effects-menu {
+    background: #282c34;
+    width: 200px;
+    height: 100%;
+}
+.effects-title {
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    color:white;
+    font-weight: bolder;
+}
