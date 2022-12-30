@@ -1,0 +1,25 @@
+.history-item-container {
+    display: flex;
+    width: 50%;
+}
+.history-item {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+.history-item-details {
+    display: flex;
+    background: #1c69d5;
+    color: white;
+    outline: 1px solid white;
+    flex-direction: column;
+    margin: 4px;
+    padding: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.history-details-value {
+    display: flex;
+    justify-content: center;
+}

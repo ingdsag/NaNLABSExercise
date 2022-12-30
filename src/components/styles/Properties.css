@@ -9,4 +9,12 @@
     height: 100px;
     border-radius: 3px;
     background: #3e4550;
+    padding: 10px;
+}
+.effects-title {
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    color:white;
+    font-weight: bolder;
 }
